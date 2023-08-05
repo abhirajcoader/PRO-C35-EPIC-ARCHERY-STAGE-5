@@ -1,1 +1,1 @@
-# PRO-C35-EPIC-ARCHERY-STAGE-5
+# Project Template 26
